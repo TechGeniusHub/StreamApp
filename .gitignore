@@ -1,0 +1,14 @@
+# Ignore virtual environments
+streamlit_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore site-packages or installed dependencies
+Lib/
+bin/
+include/
+
+# Ignore logs
+*.log
